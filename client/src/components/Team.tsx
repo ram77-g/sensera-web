@@ -17,46 +17,12 @@ const members = [
   },
   {
     name: 'AKSHAT G',
-    role: 'FOUNDING ML ENGINEER',
+    role: 'CO-FOUNDER',
     bio: "I'm Akshat G., a third-year CS & AI undergrad at Manipal Institute of Technology Bengaluru. I explore ML, deep learning, and computer vision out of genuine curiosity — turning what I learn into beginner-friendly articles and tutorials, and gradually getting involved in research to keep that learning more structured.",
     image: '/akshat.png',
     imagePosition: 'left',
   },
-  {
-    name: 'PRANAVI PRASAD',
-    role: 'FOUNDING CLINICAL RESEARCHER',
-    bio: "I'm Pranavi, a third-year MBBS student at Shri Atal Bihari Vajpayee Medical College and Research Institute, Bangalore. I've always been passionate about helping people and making a meaningful difference, and I'm constantly looking for ways to contribute to a better and more compassionate world.",
-    image: '/pranavi.png',
-    imagePosition: 'right',
-  },
-  {
-    name: 'ABINAV',
-    role: 'FOUNDING SOFTWARE ENGINEER',
-    bio: "I'm Abinav, a BTech student at IIIT Kancheepuram. I work in cryptography — particularly ZK proofs and Web3 — and have a thing for hardware, building and breaking stuff to understand how it works. Scalable and distributed systems are my core interests, and I'm always down for a conversation about large system architectures.",
-    image: '/abinav.png',
-    imagePosition: 'left',
-  },
-  {
-    name: 'SUHAIL',
-    role: 'FOUNDING CLINICAL RESEARCHER',
-    bio: '',
-    image: '/suhail.png',
-    imagePosition: 'right',
-  },
-  {
-    name: 'LITHIN SK',
-    role: 'FOUNDING HARDWARE ENGINEER',
-    bio: '',
-    image: '/lithin.png',
-    imagePosition: 'left',
-  },
-  {
-    name: 'PAMMI NANDA',
-    role: 'FOUNDING HARDWARE ENGINEER',
-    bio: '',
-    image: '/pammi.png',
-    imagePosition: 'right',
-  },
+
 ]
 
 const advisors = [

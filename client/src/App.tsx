@@ -5,6 +5,7 @@ import Problem from './components/Problem'
 import Solution from './components/Solution'
 import Status from './components/Status'
 import Team from './components/Team'
+import Footer from './components/Footer'
 
 function AppInner() {
   const { theme } = useTheme()
@@ -17,6 +18,7 @@ function AppInner() {
       <Solution />
       <Status />
       <Team />
+      <Footer />
     </div>
   )
 }
