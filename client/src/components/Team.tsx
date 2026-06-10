@@ -57,7 +57,7 @@ export default function Team() {
           className={`font-cormorant font-semibold leading-none tracking-[0.1em] uppercase mb-6 transition-colors duration-300 ${
             dark ? 'text-gray-100' : 'text-gray-900'
           }`}
-          style={{ fontSize: 'clamp(42px, 8vw, 96px)' }}
+          style={{ fontSize: 'clamp(40px, 8vw, 80px)' }}
         >
           Meet the Team
         </h2>

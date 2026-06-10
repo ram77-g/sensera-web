@@ -18,7 +18,7 @@ export default function Status() {
         >
           Development Timeline
         </h2>
-        <p className={`font-cormorant italic text-[20px] text-center mt-6 transition-colors duration-300 ${
+        <p className={`font-cormorant font-normal text-[25px] text-center mt-6 transition-colors duration-300 ${
           dark ? 'text-gray-500' : 'text-gray-400'
         }`}>
           To be updated soon.
